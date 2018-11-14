@@ -1,0 +1,10 @@
+{
+    "CustomerData1":
+    {
+        "firstname": "Pable",
+        "lastname": "Ramirez",
+        "Code": "500010",
+        "currency": "pesos",
+        "url": "http://www.way2automation.com/angularjs-protractor/banking/#/login "
+    }
+}
